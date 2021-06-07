@@ -2,7 +2,7 @@
 - 👀 I’m interested in what you've got
 - 🌱 I’m currently learning computer science (hopefully)
 - 💞️ I’m looking to collaborate on anything, let's get it
-- 📫 How to reach me - send an email to andrewblackmore95@gmail.com
+- 📫 How to reach me - send a message
 
 <!---
 MrBlackmo/MrBlackmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
